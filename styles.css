@@ -1,0 +1,22 @@
+h1{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: inherit;
+    color: black;
+}
+.container{
+    display: flex;
+    margin: 3em;
+}
+.die {
+    text-align: center;
+    font-size: 25px;
+    width:60px;
+    height:60px;
+    line-height: 60px;
+    margin: 10x;
+    display: inline-block;
+    border: 1px solid violet;
+    box-sizing: border-box;
+    background-color: blueviolet;
+}
